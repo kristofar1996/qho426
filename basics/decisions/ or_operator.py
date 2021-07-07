@@ -10,14 +10,3 @@ elif (path == "safe" or "long"):
   
 else:
   print("Not sure witch route to take!")
-
-
-
-
-
-
-
-
-
-
-

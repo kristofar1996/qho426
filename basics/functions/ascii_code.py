@@ -1,0 +1,6 @@
+print("Program Started!\n")
+print("Please enter a standard character?\n")
+letter = input()
+l = len(letter)
+print("The ASCII code for {} is {}".format(letter, ord(letter)))
+print("Program Ended!")

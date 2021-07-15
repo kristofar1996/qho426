@@ -18,8 +18,3 @@ def encrypt():
   y= int(input("Provide a secon integer (lager): "))
   p2= findPrime(x,y)
   return p1*p2
-
-
-
-
-

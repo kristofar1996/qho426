@@ -62,7 +62,7 @@ def run():
     if opt == 1:
       print_sts(dtbs)
     elif opt == 2:
-      print(f"The average mark of all students is{average(dtbs):.2f})
+      print(f"The average mark of all students is{average(dtbs):.2f}")
     elif opt == 3:
       remove(dtbs)
     elif opt == 4:
@@ -71,6 +71,10 @@ def run():
       print("Good bye - I will miss you!")
       break
     else:
-    print("Giving spacesavers mate, no such option exist")
+      print("Giving spacesavers mate, no such option exist")
+
+      
+    
+    
 
 run()
